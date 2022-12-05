@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gracetyty
 - 👀 I’m interested in coding, website and app development and data science
 - 🌱 I’m currently learning digital humanities
-- 💞️ I’m looking to collaborate on phd vacancy on digital education technology
-- 📫 Contact me through github!
+- 💞️ I’m looking to collaborate on phd research on digital education technology
+- 📫 Contact me in the github!
 
 <!---
 Gracetyty/Gracetyty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
