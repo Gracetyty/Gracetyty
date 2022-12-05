@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gracetyty
-- 👀 I’m interested in coding, website and app development and data sicence
+- 👀 I’m interested in coding, website and app development and data science
 - 🌱 I’m currently learning digital humanities
 - 💞️ I’m looking to collaborate on phd vacancy on digital education technology
 - 📫 Contact me through github!
