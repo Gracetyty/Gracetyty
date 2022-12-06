@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gracetyty
 - 👀 I’m interested in coding, website and app development and data science
 - 🌱 I’m currently learning digital humanities
-- 💞️ I’m looking to phd researches on digital education technology
+- 💞️ I’m looking to phd researches on digital education technology, machine learning, NLP and AI. 
 - 📫 Contact me in the github!
 
 <!---
